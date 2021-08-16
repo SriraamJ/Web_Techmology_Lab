@@ -1,0 +1,18 @@
+.center{
+    text-align: center;
+    text-decoration: underline;
+}
+table,td,th{
+    border-collapse:collapse;
+    padding: 20px;
+    align-items: center;
+}
+body{
+    border: 4px;
+}
+th{
+    background-color:#04AA6D;
+}
+tr:hover {
+    background-color:white;
+}
